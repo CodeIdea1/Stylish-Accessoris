@@ -1,0 +1,46 @@
+.bracelet-landing {
+    width: 100%;
+    height: 100vh;
+    background-image: url('..//images/bracelet-background1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    position: relative;
+}
+.five-stars {
+    font-size: 11px; 
+    color: rgb(255, 217, 1); 
+    margin-bottom: -30px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+.intro-text {
+    color: #f6b32e;
+    width: 85%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.intro-text span {
+    color: white;
+}
+.intro-text img {
+    width: 80px;
+    margin-right: 6px;
+}
+.intro-text .button {
+    transition: .3s;
+}
+.intro-text .button:hover {
+    color: #f6b32e;
+}
+
+@media (max-width: 700px) {
+    .prod img {
+        width: 311px;
+    }
+    .prod p {
+        font-size: 17px;
+    }
+}

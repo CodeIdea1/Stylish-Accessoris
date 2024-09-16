@@ -1,0 +1,860 @@
+{ 
+    "products_slider": [
+        {
+            "id": 91,
+            "name": "Phone Charm",
+            "description": "Rainbow Fruit Phone Strap",
+            "price": "20",
+            "image": "images/Phone-Charm88.png",
+            "ratings": 5
+        },
+        {
+            "id": 90,
+            "name": "Beads Bracelet",
+            "description": "white and blue bracelet with Leaf",
+            "price": "10",
+            "image": "images/bracelet45.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 89,
+            "name": "Necklace",
+            "description": "Pink and White  Butterfly Necklace",
+            "price": "45",
+            "beforeSale": "25.00",
+            "image": "images/necklace15.png",
+            "new_label_1": "images/new5.png",
+            "new_label_2": "images/new.png",
+            "ratings": 4
+        },
+        {
+            "id": 88,
+            "name": "Beads Necklace",
+            "description": "burgundy & off-white beaded necklace",
+            "price": "20",
+            "image": "images/model-red2-necklace.png",
+            "rating": 3
+        },
+        {
+            "id": 87,
+            "name": "Beads Necklace & Beads Bracelet",
+            "description": "Gold and silver beaded necklace with stars",
+            "price": "33",
+            "image": "images/necklace2.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 86,
+            "name": "Phone Charm",
+            "description": "colorful Phone Strap with smiley faces",
+            "price": "45",
+            "beforeSale": "25.00",
+            "image": "images/Phone-Charm91.png",
+            "new_label_1": "images/new5.png",
+            "new_label_2": "images/new.png",
+            "ratings": 5
+        },
+        {
+            "id": 85,
+            "name": "Beads Necklace",
+            "description": "red & white beaded necklace with hearts",
+            "price": "33",
+            "image": "images/model-red-necklace.png",
+            "ratings": 5
+        },
+        {
+            "id": 84,
+            "name": "Beads Necklace",
+            "description": "Pink & white Bracelet",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/bracelet55.jpg",
+            "new_label_1": "images/new5.png",
+            "new_label_2": "images/new.png",
+            "ratings": 5
+        },
+        {
+            "id": 83,
+            "name": "Beads Necklace",
+            "description": "purple & black beaded necklace",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/model-blue2-necklace.png",
+            "ratings": 4
+        },
+        {
+            "id": 82,
+            "name": "Beads Bracelet",
+            "description": "Shiny purple Bracelet",
+            "price": "10",
+            "beforeSale": "25.00",
+            "image": "images/bracelet3.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 81,
+            "name": "Beads Bracelet",
+            "description": "Apple Bracelet in green, blue and purple colors",
+            "price": "10",
+            "image": "images/bracelet1.jpg",
+            "ratings": 4
+        }
+    ],
+    "Beads_Necklace": [
+        {
+            "id": 80,
+            "name": "Necklace",
+            "description": "Pink and White Butterfly Necklace",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace15.png",
+            "ratings": 5
+        },
+        {
+            "id": 79,
+            "name": "Necklace",
+            "description": "orange & white beaded necklace",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace16.png",
+            "ratings": 4
+        },
+        {
+            "id": 78,
+            "name": "Necklace",
+            "description": "Colorful beaded necklace with smiley faces",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace17.png",
+            "ratings": 3
+        },
+        {
+            "id": 78,
+            "name": "Necklace",
+            "description": "Blue and white beaded necklace with stars",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace1.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 77,
+            "name": "Necklace",
+            "description": "Gold and silver beaded necklace with stars",
+            "price": "20",
+            "beforeSale": "26.00",
+            "image": "images/necklace2.jpg",
+            "image2": "images/model-white-necklace.png",
+            "ratings": 4.0
+        },
+        {
+            "id": 76,
+            "name": "Necklace",
+            "description": "Silver beaded necklace",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace3.jpg",
+            "image2": "images/model-babyblue-necklace.png",
+            "ratings": 2.8
+        },
+        {
+            "id": 75,
+            "name": "Necklace",
+            "description": "red & white beaded necklace with hearts",
+            "price": "20",
+            "beforeSale": "30.00",
+            "image": "images/necklace4.jpg",
+            "image2": "images/model-red-necklace.png",
+            "ratings": 5
+        },        
+        {
+            "id": 74,
+            "name": "Necklace",
+            "description": "purple & black beaded necklace",
+            "price": "20",
+            "beforeSale": "30.00",
+            "image": "images/necklace5.jpg",
+            "image2": "images/model-blue2-necklace.png",
+            "ratings": 4.5
+        },
+        {
+            "id": 73,
+            "name": "Necklace",
+            "description": "white & blue beaded necklace",
+            "price": "20",
+            "beforeSale": "29.00",
+            "image": "images/necklace6.jpg",
+            "image2": "images/model-blue3-necklace.png",
+            "ratings": 4.0
+        },
+        {
+            "id": 72,
+            "name": "Necklace",
+            "description": "burgundy & off-white beaded necklace",
+            "price": "20",
+            "beforeSale": "24.00",
+            "image": "images/necklace7.jpg",
+            "image2": "images/model-red2-necklace.png",
+            "ratings": 5
+        },
+        {
+            "id": 71,
+            "name": "Necklace",
+            "description": "blue & black beaded necklace with Seashell ",
+            "price": "20",
+            "beforeSale": "24.00",
+            "image": "images/necklace8.jpg",
+            "image2": "images/model-blue4-necklace.png",
+            "ratings": 5
+        },
+        {
+            "id": 70,
+            "name": "Necklace",
+            "description": "shiny orange & silver beaded necklace",
+            "price": "20",
+            "beforeSale": "24.00",
+            "image": "images/necklace9.jpg",
+            "image2": "images/model-pink-necklace.png",
+            "ratings": 4
+        },
+        {
+            "id": 69,
+            "name": "Necklace",
+            "description": "white & blue beaded necklace",
+            "price": "20",
+            "beforeSale": "28.00",
+            "image": "images/necklace10.jpg",
+            "image2": "images/model-blue6-necklace.png",
+            "ratings": 5
+        },
+        {
+            "id": 68,
+            "name": "Necklace",
+            "description": "Pistachio & off-white beaded necklace",
+            "price": "20",
+            "beforeSale": "25.00",
+            "image": "images/necklace12.png",
+            "image2": "images/model-babygreen-necklace.png",
+            "ratings": 3.8
+        },
+        {
+            "id": 67,
+            "name": "Necklace",
+            "description": "black & white beaded necklace with hearts",
+            "price": "20",
+            "beforeSale": "30.00",
+            "image": "images/necklace13.png",
+            "image2": "images/model-white2-necklace.png",
+            "ratings": 2.8
+        },
+        {
+            "id": 66,
+            "name": "Necklace",
+            "description": "Black and white beaded necklace with smiley faces",
+            "price": "20",
+            "beforeSale": "22.00",
+            "image": "images/necklace14.png",
+            "image2": "images/model-white3-necklace.png",
+            "ratings": 2.8
+        }
+    ],
+
+
+
+
+
+    "Phone_Charm": [
+        {
+            "id": 65,
+            "name": "Phone Charm",
+            "description": "colorful Phone Strap with smiley faces",
+            "price": "30",
+            "beforeSale": "35",
+            "image": "images/Phone-Charm91.png",
+            "ratings": 4
+        },
+        {
+            "id": 64,
+            "name": "Phone Charm",
+            "description": "pink Phone Strap with bears",
+            "price": "30",
+            "beforeSale": "38",
+            "image": "images/Phone-Charm90.png",
+            "ratings": 5
+        },
+        {
+            "id": 63,
+            "name": "Phone Charm",
+            "description": "colorful Phone Strap with stars",
+            "price": "30",
+            "beforeSale": "37",
+            "image": "images/Phone-Charm89.png",
+            "ratings": 5
+        },
+        {
+            "id": 62,
+            "name": "Phone Charm",
+            "description": "white Pastel Phone Strap with hearts",
+            "price": "23",
+            "beforeSale": "30",
+            "image": "images/Phone-Charm33.png",
+            "ratings": 5
+        },
+        {
+            "id": 61,
+            "name": "Phone Charm",
+            "description": "Flower Phone Strap",
+            "price": "30",
+            "beforeSale": "35",
+            "image": "images/Phone-Charm44.png",
+            "ratings": 4
+        },
+        {
+            "id": 60,
+            "name": "Phone Charm",
+            "description": "white Pastel Phone Strap with smiley faces",
+            "price": "25",
+            "beforeSale": "31",
+            "image": "images/Phone-Charm77.png",
+            "ratings": 2.8
+        },
+        {
+            "id": 59,
+            "name": "Phone Charm",
+            "description": "Rainbow Fruit Phone Strap",
+            "price": "28",
+            "beforeSale": "38",
+            "image": "images/Phone-Charm88.png",
+            "ratings": 4
+        }
+        
+
+
+
+
+    ],
+    "Beads_Bracelet": [
+        {
+            "id": 58,
+            "name": "Bracelet",
+            "description": "light green & white Bracelet",
+            "price": "10",
+            "beforeSale": "22.50",
+            "image": "images/bracelet56.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 57,
+            "name": "Bracelet",
+            "description": "Pink & white Bracelet",
+            "price": "10",
+            "beforeSale": "25.00",
+            "image": "images/bracelet55.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 56,
+            "name": "Ring",
+            "description": "Pink and White Beaded ring",
+            "price": "5",
+            "beforeSale": "9.50",
+            "image": "images/Beaded ring1.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 55,
+            "name": "Ring",
+            "description": "Blue and White Beaded ring",
+            "price": "5",
+            "beforeSale": "10.00",
+            "image": "images/Beaded ring3.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 54,
+            "name": "Ring",
+            "description": "Yellow and white lemon themed clay bead ring",
+            "price": "5",
+            "beforeSale": "7.00",
+            "image": "images/Beaded ring4.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 53,
+            "name": "Bracelet",
+            "description": "Apple Bracelet in green, blue and purple colors",
+            "price": "10",
+            "beforeSale": "19.00",
+            "image": "images/bracelet1.jpg",
+            "ratings": 4
+        },        
+        {
+            "id": 52,
+            "name": "Bracelet",
+            "description": "yellow and White Beaded ",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet2.jpg",
+            "ratings": 3.5
+        },
+        {
+            "id": 51,
+            "name": "Bracelet",
+            "description": "Shiny purple Bracelet",
+            "price": "10",
+            "beforeSale": "15.00",            
+            "image": "images/bracelet3.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 50,
+            "name": "Bracelet",
+            "description": "Colorful Bracelet",
+            "price": "10",
+            "beforeSale": "13.00",                        
+            "image": "images/bracelet4.jpg",
+            "ratings": 3.8
+        },
+        {
+            "id": 49,
+            "name": "Bracelet",
+            "description": "Heart Bracelet in red & off-white",
+            "price": "10",
+            "beforeSale": "19.00",           
+            "image": "images/bracelet5.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 48,
+            "name": "Bracelet",
+            "description": "Dark blue, light blue and white bracelet",
+            "price": "10",
+            "beforeSale": "16.00", 
+            "image": "images/bracelet6.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 47,
+            "name": "Bracelet",
+            "description": "purple and white lemon Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",            
+            "image": "images/bracelet7.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 46,
+            "name": "Bracelet",
+            "description": "purple and white Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",            
+            "image": "images/bracelet8.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 45,
+            "name": "Bracelet",
+            "description": "purple and gold Bracelet with smiley faces",
+            "price": "10",
+            "beforeSale": "16.00",            
+            "image": "images/bracelet9.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 44,
+            "name": "Bracelet",
+            "description": "dark blue and white Bracelet with stars",
+            "price": "10",
+            "beforeSale": "14.00",            
+            "image": "images/bracelet10.jpg",
+            "ratings": 4.0
+        },
+        {
+            "id": 43,
+            "name": "Bracelet",
+            "description": "light blue and white bracelet",
+            "price": "10",
+            "beforeSale": "16.00", 
+            "image": "images/bracelet11.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 42,
+            "name": "Bracelet",
+            "description": "Pink & white Bracelet with stars",
+            "price": "10",
+            "beforeSale": "18.00", 
+            "image": "images/bracelet12.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 41,
+            "name": "Bracelet",
+            "description": "Black & white Bracelet with hearts",
+            "price": "10",
+            "beforeSale": "18.00",             
+            "image": "images/necklace13.png",
+            "ratings": 4
+        },
+        {
+            "id": 40,
+            "name": "Bracelet",
+            "description": "Pink & purple & light blue Bracelet",
+            "price": "10",
+            "beforeSale": "15.00",    
+            "image": "images/bracelet14.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 39,
+            "name": "Bracelet",
+            "description": "Pink & white Bracelet",
+            "price": "10",
+            "beforeSale": "19.00",    
+            "image": "images/bracelet15.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 38,
+            "name": "Bracelet",
+            "description": "Purple & white Bracelet",
+            "price": "10",
+            "beforeSale": "19.00", 
+            "image": "images/bracelet16.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 37,
+            "name": "Bracelet",
+            "description": "Shiny light blue Bracelet",
+            "price": "10",
+            "beforeSale": "15.00", 
+            "image": "images/bracelet17.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 36,
+            "name": "Bracelet",
+            "description": "burgundy & white Bracelet with heart",
+            "price": "10",
+            "beforeSale": "20.00", 
+            "image": "images/bracelet18.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 35,
+            "name": "Bracelet",
+            "description": "light blue & white Bracelet with Seashell",
+            "price": "10",
+            "beforeSale": "20.00", 
+            "image": "images/bracelet19.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 34,
+            "name": "Bracelet",
+            "description": "Black & white Bracelet",
+            "price": "10",
+            "beforeSale": "20.00", 
+            "image": "images/bracelet20.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 33,
+            "name": "Bracelet",
+            "description": "white Bracelet with bead apple",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet21.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 32,
+            "name": "Bracelet",
+            "description": "light blue & white Bracelet",
+            "price": "10",
+            "beforeSale": "19.00",
+            "image": "images/bracelet22.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 31,
+            "name": "Bracelet",
+            "description": "Shiny white & light blue Bracelet",
+            "price": "10",
+            "beforeSale": "14.00",
+            "image": "images/bracelet23.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 30,
+            "name": "Bracelet",
+            "description": "Black And White Rabbit Bracelet",
+            "price": "10",
+            "beforeSale": "19.00",
+            "image": "images/bracelet24.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 29,
+            "name": "Bracelet",
+            "description": "orange and white Bracelet",
+            "price": "10",
+            "beforeSale": "16.00",
+            "image": "images/bracelet25.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 28,
+            "name": "Bracelet",
+            "description": "orange & white & black Bracelet",
+            "price": "10",
+            "beforeSale": "14.00",
+            "image": "images/bracelet26.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 27,
+            "name": "Bracelet",
+            "description": "black & white Bracelet with heart ",
+            "price": "10",
+            "beforeSale": "17.00",
+            "image": "images/bracelet27.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 26,
+            "name": "Bracelet",
+            "description": "Shiny purple Bracelet",
+            "price": "10",
+            "beforeSale": "14.00",
+            "image": "images/bracelet28.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 25,
+            "name": "Bracelet",
+            "description": "pink and white best friend BFF friendship Bracelet",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet29.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 24,
+            "name": "Bracelet",
+            "description": "orange and white bracelet for summer with stars",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet30.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 23,
+            "name": "Bracelet",
+            "description": "pink and white Bracelet",
+            "price": "10",
+            "beforeSale": "17.00",
+            "image": "images/bracelet31.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 22,
+            "name": "Bracelet",
+            "description": "black and white Bracelet",
+            "price": "10",
+            "beforeSale": "15.00",
+            "image": "images/bracelet32.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 21,
+            "name": "Bracelet",
+            "description": "green and blue bracelet with hearts",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet33.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 20,
+            "name": "Bracelet",
+            "description": "red & white & green Bracelet with seashell",
+            "price": "10",
+            "beforeSale": "14.00",
+            "image": "images/bracelet34.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 19,
+            "name": "Bracelet",
+            "description": "pink & yellow & blue Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet35.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 18,
+            "name": "Bracelet",
+            "description": "pink & green & yellow & purple & orange Bracelete",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet36.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 17,
+            "name": "Bracelet",
+            "description": "blue & white Bracelet",
+            "price": "10",
+            "beforeSale": "16.00",
+            "image": "images/bracelet37.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 16,
+            "name": "Bracelet",
+            "description": "white & purple & green Bracelet",
+            "price": "10",
+            "beforeSale": "20.00",
+            "image": "images/bracelet38.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 15,
+            "name": "Bracelet",
+            "description": "Pistachio Bracelet with seashell",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet39.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 14,
+            "name": "Bracelet",
+            "description": "green & white Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet40.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 13,
+            "name": "Bracelet",
+            "description": "Black & white Bracelet with hearts",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet41.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 12,
+            "name": "Bracelet",
+            "description": "green & white Bracelet with smiley face",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet42.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 11,
+            "name": "Bracelet",
+            "description": "white and blue bracelet with Leaf",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet43.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 10,
+            "name": "Bracelet",
+            "description": "white and black bracelet with hearts",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet44.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 9,
+            "name": "Bracelet",
+            "description": "white and blue bracelet with Leaf",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet45.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 8,
+            "name": "Bracelet",
+            "description": "yellow and white lemon themed bracele",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet46.jpg",
+            "ratings": 4
+        },
+        {
+            "id": 7,
+            "name": "Bracelet",
+            "description": "colorful cube Bracelet hearts",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet47.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 6,
+            "name": "Bracelet",
+            "description": "colorful stars Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet48.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 5,
+            "name": "Bracelet",
+            "description": "Seashell bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet49.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 4,
+            "name": "Bracelet",
+            "description": "Shiny white & light blue Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet50.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 3,
+            "name": "Bracelet",
+            "description": "Shiny light blue Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet51.jpg",
+            "ratings": 3
+        },
+        {
+            "id": 2,
+            "name": "Bracelet",
+            "description": "white & orange Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet53.jpg",
+            "ratings": 5
+        },
+        {
+            "id": 1,
+            "name": "Bracelet",
+            "description": "Shiny white & pink Bracelet",
+            "price": "10",
+            "beforeSale": "18.00",
+            "image": "images/bracelet54.jpg",
+            "ratings": 4
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+:root {
+    --main-color: #1c4645;
+    --section-padding: 60px;
+    --section-background: #f6f6f6;
+}
+.header {
+    position: relative;
+}
+.header .container {
+    position: relative;
+}
+.beads-necklace-landing {
+    width: 100%;
+    height: calc(100vh - 132px);
+    background-image: url('..//images/bbackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    position: relative;
+}
+.over-lay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.699);
+    z-index: 9;
+}
+.intro-text {
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    font-family: "Kurale", serif;
+    color: white;
+    z-index: 9;
+    left: 50%;
+    top: 20%;
+    font-weight: 900;
+    font-size: 33px;
+    transform: translate(-50%);
+}
+.intro-text .button {
+    color: var(--main-color);
+    padding: 15px 25px;
+    border-radius: 70px;
+    background-color: white;
+    font-size: 19px;
+}
+.products {
+    width: 100%;
+    padding-top: var(--section-padding);
+    padding-bottom: 100px;
+}
+.products .container {
+    margin-top: var(--section-padding);
+}
+.products .prod {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    transition: .8s;
+    /* transform: scale(0);
+    opacity: 0; */
+    cursor: pointer;
+} 
+/* .products .prod.translate {
+    transform: scale(1);
+    opacity: 1;
+} */
+.prod img{
+    width: 265px;
+}
+.prod p {
+    width: 95%;
+    font-weight: 500;
+    font-family: "Kurale", serif;
+    line-height: 2ch;
+    color: black;
+    margin-bottom: 7px;
+}
+.prod .after-save {
+    color: #239170;
+    font-weight: 500;
+}
+.prod .before-save {
+    position: relative;
+    color: rgba(0, 0, 0, 0.37);
+    font-size: 13px;
+    font-weight: 600;
+}
+.features .feat {
+    transform: translateY(0);
+}
+@media (max-width: 700px) {
+    .prod {
+        display: flex;
+        align-items: center;
+    }
+    .prod p {
+        text-align: center;
+    }
+    .intro-text {
+        font-size: 28px;
+    }
+    .products .prod.translate2 {
+        transform: scale(1);
+        opacity: 1;
+    }
+    .prod img {
+        width: 323px;
+    }
+}
+.five-stars {
+    font-size: 11px; 
+    color: rgb(255, 217, 1); 
+    margin-bottom: -30px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+.intro-text {
+    color: #f6b32e;
+    width: 85%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.intro-text span {
+    color: white;
+}
+.intro-text img {
+    width: 80px;
+    margin-right: 6px;
+}
+.intro-text .button {
+    transition: .3s;
+}
+.intro-text .button:hover {
+    color: #f6b32e;
+}
+
+.features .feat {
+    transform: translateY(0);
+    transform: translateX(-120%);
+    transition: 1s;
+}
+.features .feat2 {
+    transition: 1.4s;
+}
+.features .feat3 {
+    transition: 1.8s;
+}
+.features .feat.translate2 {
+    transform: translateX(0px);
+}
+
+.prod p {
+    font-size: 17px;
+}
+
+@media (max-width: 700px) {
+    .prod img {
+        width: 311px;
+    }
+    .prod p {
+        font-size: 17px;
+    }
+}
+
+
+/* Blue and white beaded */
+.product-container {
+    width: 100%;
+    margin-top: 50px;
+}
+.product-container .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.product-container .prod-img {
+    width: 48%;
+}
+.product-container .prod-img img {
+    width: 100%;
+    border-radius: 8px;
+}
+.product-container .prod-informations {
+    width: 45%;
+}
+.product-container .prod-informations .prod-name {
+    color: var(--main-color);
+}

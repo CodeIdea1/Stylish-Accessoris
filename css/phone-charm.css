@@ -1,0 +1,71 @@
+/* start varibels */
+:root {
+    --main-color: #1c4645;
+    --section-padding: 60px;
+    --section-background: #f6f6f6;
+}
+/* end varibels */
+.phone-charm-landing {
+    width: 100%;
+    height: calc(100vh - 132px);
+    background-image: url('..//images/Phone-Charm-background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    position: relative;
+}
+.five-stars {
+    font-size: 11px; 
+    color: rgb(255, 217, 1); 
+    margin-bottom: -30px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+.intro-text {
+    color: #f6b32e;
+    width: 85%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.intro-text span {
+    color: white;
+}
+.intro-text img {
+    width: 80px;
+    margin-right: 6px;
+}
+.intro-text .button {
+    transition: .3s;
+}
+.intro-text .button:hover {
+    color: #f6b32e;
+}
+
+.features .feat {
+    transform: translateY(0);
+    transform: translateX(-120%);
+    transition: 1s;
+}
+.features .feat2 {
+    transition: 1.4s;
+}
+.features .feat3 {
+    transition: 1.8s;
+}
+.features .feat.translate2 {
+    transform: translateX(0px);
+}
+
+@media (max-width: 700px) {
+    .prod img {
+        width: 311px;
+    }
+    .prod p {
+        font-size: 17px;
+    }
+}
+.header.translate {
+    background-color: #f6b32e;
+}
